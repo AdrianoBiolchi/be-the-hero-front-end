@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">Front-end application of Be The Hero, developed in <a href="https://reactjs.org/" target="_blank">ReactJS 
-<img src="[![Netlify Status](https://api.netlify.com/api/v1/badges/76d56b58-f308-419c-81d9-360b8cbfd003/deploy-status)](https://app.netlify.com/sites/betheheroproject/deploys)">
+<img width="460" height="300" src="[![Netlify Status](https://api.netlify.com/api/v1/badges/76d56b58-f308-419c-81d9-360b8cbfd003/deploy-status)](https://app.netlify.com/sites/betheheroproject/deploys)">
 </a></p>
