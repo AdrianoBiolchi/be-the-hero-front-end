@@ -15,7 +15,9 @@
 </div> 
 <br>
 
-## Link [![Netlify Status](https://api.netlify.com/api/v1/badges/76d56b58-f308-419c-81d9-360b8cbfd003/deploy-status)](https://app.netlify.com/sites/betheheroproject/deploys)
+## :bookmark_tabs: Link
+
+### [![Netlify Status](https://api.netlify.com/api/v1/badges/76d56b58-f308-419c-81d9-360b8cbfd003/deploy-status)](https://app.netlify.com/sites/betheheroproject/deploys)
 
 Você pode conferir o projeto em:
 
